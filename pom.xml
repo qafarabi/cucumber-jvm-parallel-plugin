@@ -9,7 +9,7 @@
 
 	<groupId>com.github.saikrishna321</groupId>
 	<artifactId>cucumber-jvm-parallel-plugin</artifactId>
-	<version>2.0.1</version>
+	<version>2.0.4</version>
 	<packaging>maven-plugin</packaging>
 
 	<name>cucumber-jvm-parallel-plugin Maven Plugin</name>
